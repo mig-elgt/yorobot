@@ -1,0 +1,30 @@
+# Project: Project1
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = 
+OBJ  = juegoEd.o $(RES)
+LINKOBJ  = juegoEd.o $(RES)
+LIBS =  -lbgi -lgdi32 -luser32 
+INCS = 
+CXXINCS = 
+BIN  = juegoRobot.exe
+CXXFLAGS = $(CXXINCS)  
+CFLAGS = $(INCS)  
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before juegoRobot.exe all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "juegoRobot.exe" $(LIBS)
+
+juegoEd.o: juegoEd.cpp
+	$(CPP) -c juegoEd.cpp -o juegoEd.o $(CXXFLAGS)

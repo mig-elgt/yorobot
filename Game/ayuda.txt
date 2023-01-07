@@ -1,0 +1,28 @@
+INTRODUCCION:
+                                                                                      .
+      El juego consiste en un robot que anda en busca de un microchip, este se encuentra
+      en la cima de una montaña. Para poder llegar a el, tendra que ir brincando algunos
+      bloques que se iran apareciendo durante el trayecto, algunos de ellos estan movimiento
+      por ello el robot debera de tener cuidado de no caerse, conforme valla ascendiendo,
+      iran apareciendo algunos robots con la finalidad de impedir su busqueda, estos robot 
+      empezaran a disparar para ello el robot tendra que luchar contra ellos.
+      Una vez que los derrote pasara al siguiente escenario y asi continuar con la
+      busqueda.
+
+RESPECTO AL JUEGO:       
+      
+      EL juego termina de dos formas, ya sea porque se le hayan acabado las vidas o porque
+      el tiempo estimado para la busqueda se le haya terminado.
+      El robot solamente tiene 10 vidas y los robots enemigos 20, la ventaja del robot es 
+      que puede disparar conjuntos de balas sucesivas y el robot enemigo solo 1 en 
+      intervalos de tiempo, y asi poder eliminarlo rapidamente, el robot cuenta con
+      50 balas si se termian solo hay que cargar las municiones.
+      Cuando se realice un brinco, este se podra interrumpir ya se a durante el descenso o 
+      durante el brinco, esto se hace con alguna de las teclas del camina, esto le ayudara
+      al robot a mantenerse en "aire" y poder realizar otros brincos o acomodarse para caer
+      en otro, asi como esquibar las balas de los robots enemigos.     
+
+CONTROLES:        Caminar derecha :  N          Caminar Izquierda:  V        Saltar:    J 
+                                     Disparar:  B           Cargar balas:   F
+ 
+ 

@@ -1,0 +1,25 @@
+
+              U N I V E R S I D A D   A U T O N O M A   D E   S A N   L U I S   P O T O S I
+
+                                            F A C U L T A D  D E   I N G E N I E R I A
+         
+                        A R E A   D E   C O M P U T A C I O N   E   I N F O R M A T I C A
+
+ 
+ 
+ INGENIERO  EN  INFORMATICA 
+
+ ESTRUCTURAS  DE  DATOS  Y  ALGORITMOS  B
+ 
+ SEMESTRE 3
+
+
+                                                                         AUTOR
+                                    G A L I C I A   T O R R E Z   M I G U E L   A N G E L
+                                 -----------------------------------------------------------------------------
+    
+                                                                    PROFESOR 
+                                             M.C.: De la Cruz Lopez Miguel Angel  
+                                          ----------------------------------------------------------
+   
+                                                                                                         SOFTWARE :  Robot 1.0.2
